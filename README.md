@@ -9,6 +9,9 @@ Objective:
 
 
 In this project we are dividing our customers on the basis of 3 factors
+
 Recency:- It represents how recently a customer purchased a product.
+
 Frequency:- It represents how often a customer purchased a product. The more frequent will be the better score.
+
 Monetary:- It represents how much an customer spends.
